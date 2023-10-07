@@ -1,6 +1,6 @@
 # TitanTech
 
-This repo records and holds all the research and data regarding the ** titan unmanned mission **
+This repo records and holds all the research and data regarding the **titan unmanned mission**
 The mission started off as a completely aerial exploration based solution due to Titan's favourable atmospheric charactersitics, but has since moved on to a duo of mobile rover and a multicopter drone, so as to ensure not all the weight is carried by the drone, and yet a large area can be covered.
 
 As of 25th September, research into scientific instrumentation, geographic areas of interest, GPS denied navigation, and long-term swarm based path planning is being conducted.
