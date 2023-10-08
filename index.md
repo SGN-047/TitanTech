@@ -2,6 +2,7 @@
 location: "on Titan"
 inspiration: "https://dragonfly.jhuapl.edu/News-and-Resources/docs/34_03-Lorenz.pdf"
 ---
+
 # PROJECT Titan twins
 A swarm robotics project where land meets aerial robotics {{ page.location }}
 
@@ -12,7 +13,7 @@ To both reduce risk and leverage range {{ page.location }}
 {{ site.description }}
 
 ##Sources
-[The dragonfly project by John Hopkins APL and NASA]({{ https://dragonfly.jhuapl.edu/News-and-Resources/docs/34_03-Lorenz.pdf }})
+[The dragonfly project by John Hopkins APL and NASA]({{ page.inspiration }})
 
 time: {{ site.time }}
 
